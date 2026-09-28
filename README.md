@@ -14,7 +14,7 @@ Otobüs ve tramvay hatlarını, durak varış tahminlerini ve rota planlamayı t
 - **Kentkart** — Bakiye, yükleme (200 ₺+ hediye bakiye), QR ile biniş simülasyonu, işlem geçmişi.
 - **Daha** — Duyurular, hat listesi, düşük veri modu, büyük yazı, sıfırlama.
 - **Kalıcılık** — Zustand + AsyncStorage (favoriler, son aramalar, kart, ayarlar).
-- **Test** — Vitest ile 16 birim testi (geometri, simülasyon, ETA, planlama), Playwright ile web çıktısında 35 kontrollü uçtan uca akış ve 8 ekran görüntüsü.
+- **Test** — Vitest ile 16 birim testi (geometri, simülasyon, ETA, planlama), Playwright ile web çıktısında 27 kontrollü uçtan uca akış ve 8 ekran görüntüsü.
 
 ## Teknolojiler
 
