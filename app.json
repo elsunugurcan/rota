@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Rota",
+    "slug": "rota",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.uurstudio.rota" },
+    "android": { "package": "com.uurstudio.rota", "adaptiveIcon": { "foregroundImage": "./assets/android-icon-foreground.png", "backgroundImage": "./assets/android-icon-background.png", "monochromeImage": "./assets/android-icon-monochrome.png", "backgroundColor": "#0a1220" } },
+    "web": { "bundler": "metro", "output": "single", "favicon": "./assets/favicon.png" },
+    "scheme": "rota",
+    "backgroundColor": "#0a1220",
+    "splash": { "backgroundColor": "#0a1220", "resizeMode": "contain", "image": "./assets/splash-icon.png" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": false }
+  }
+}
